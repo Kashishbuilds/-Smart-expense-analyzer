@@ -5,4 +5,3 @@ scikit-learn
 matplotlib
 plotly
 joblib
-pillow==9.5.0
